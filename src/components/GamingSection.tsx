@@ -19,8 +19,8 @@ function GamingSection() {
         </GradientText>
         <Image src={underline} alt="" className="w-[130px] md:w-[200px]" />
         <p className=" text-[18px] text-balance  text-black/85 mt-5 max-w-[500px] ">
-          "Immerse yourself in worlds beyond imagination, where every moment
-          brings new adventures and unforgettable experiences"
+          &quot;Immerse yourself in worlds beyond imagination, where every
+          moment brings new adventures and unforgettable experiences&quot;
         </p>
 
         <AnimatedButton

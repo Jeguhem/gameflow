@@ -29,7 +29,7 @@ function Navlinks() {
     <div className="hidden  lg:flex gap-6 items-center">
       {navigationLinks.map((item, idx) => (
         <div
-          key={item.label}
+          key={idx}
           onClick={() =>
             document.getElementById(`${item.sectionId}`)?.scrollIntoView()
           }
