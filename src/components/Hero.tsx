@@ -7,8 +7,6 @@ import controller from "@public/controller.svg";
 import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
 import { useRef } from "react";
-import left_splash from "@public/left-hero-splash.svg";
-import right_splash from "@public/right-hero-splash.svg";
 
 function Hero() {
   const container = useRef(null);

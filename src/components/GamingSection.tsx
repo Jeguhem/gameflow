@@ -2,7 +2,6 @@ import React from "react";
 import GradientText from "./GradientText";
 import underline from "@public/underline.svg";
 import Image from "next/image";
-import ps5 from "@public/ps5.svg";
 import { FaArrowRight } from "react-icons/fa6";
 import AnimatedButton from "./AnimatedButton";
 

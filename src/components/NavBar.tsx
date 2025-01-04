@@ -3,7 +3,6 @@ import Image from "next/image";
 import React, { useState, useEffect } from "react";
 import clsx from "clsx"; // Import clsx
 import Navlinks from "./Navlinks";
-import { Button } from "./ui/button";
 import logo from "@public/logo.svg";
 import AnimatedButton from "./AnimatedButton";
 

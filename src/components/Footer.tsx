@@ -12,7 +12,6 @@ import {
   FaYoutube,
 } from "react-icons/fa6";
 import footerlogo from "@public/footerlogo.svg";
-import footerblur from "@public/footer-blur.svg";
 
 function Footer() {
   return (

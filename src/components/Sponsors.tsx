@@ -4,14 +4,12 @@ import InfiniteScroll from "./InfiniteScroll";
 import underline from "@public/underline.svg";
 import vr_right from "@public/vr-glasses-right.svg";
 import vr_left from "@public/vr-glasses-left.svg";
-import xboxcontroller from "@public/xbox-controller.svg";
 import humanvr from "@public/human-vr.svg";
 import gamingblur from "@public/gaming-blur.svg";
 import left_xbox from "@public/left-xbox.svg";
 import right_xbox from "@public/right-xbox.svg";
 import Image from "next/image";
 import { FaPlaystation, FaSteam, FaUnity, FaXbox } from "react-icons/fa6";
-import ParticleEffect from "./Particles";
 
 function Sponsors() {
   return (
