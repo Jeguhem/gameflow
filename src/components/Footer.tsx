@@ -47,7 +47,7 @@ function Footer() {
         className="py-[70px] px-6 bg-cover  bg-center bg-no-repeat"
         style={{ backgroundImage: "url('/footer-image.svg')" }}
       >
-        <div className="flex flex-col md:flex-row gap-6 md:justify-between ">
+        <div className="flex flex-col md:flex-row gap-12 md:justify-between ">
           <div className="flex flex-col md:gap-16 gap-4 px-2 relative">
             <div className="flex flex-col gap-4">
               <Image src={footerlogo} alt="" className="w-[38px]" />
